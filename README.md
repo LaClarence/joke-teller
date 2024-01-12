@@ -2,7 +2,7 @@
 
 ## Goal
 
-Pass a joke that to a text to speech API and it will tell us that joke.
+Get a joke from an API and provide it to a text to speech API that will tell us.
 
 ## Text-To-Speech API
 
@@ -11,7 +11,7 @@ Pass a joke that to a text to speech API and it will tell us that joke.
 Create an account on [Voice RSS](https://www.voicerss.org/api/)
 to get an API Key: 1404...0768
 
-Problem: API key is exposed!
+The uses of an API that exposed the key is not secured!
 
 ### Using browser embedded Speech Synthesiser
 
